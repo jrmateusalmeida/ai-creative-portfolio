@@ -66,4 +66,69 @@ Avaliação dos resultados gerados, identificação de inconsistências e seleç
 
 **05. Produção de voz com IA**
 
-Utilização de ElevenLabs e Fish Studio para criação de vozes e narrações, explorando
+Utilização de ElevenLabs e Fish Studio para criação de vozes e narrações, explorando entonação, expressividade e adequação ao contexto publicitário.
+
+**06. Edição e pós-produção**
+
+Montagem das cenas, organização da sequência narrativa, sincronização de áudio, cortes, transições e finalização audiovisual.
+
+---
+
+## 🛠️ TOOLS & SKILLS | FERRAMENTAS
+
+### AI Video Generation
+- **Google Flow:** geração de vídeos e cenas com inteligência artificial.
+
+### AI Voice Generation
+- **ElevenLabs:** geração de vozes e narrações com IA.
+- **Fish Studio / Fish Audio:** síntese de voz e criação de narrações.
+
+### Video Editing
+- **CapCut:** edição, montagem e finalização de vídeos.
+
+### Creative Skills
+- Prompt Engineering
+- Direção criativa com inteligência artificial
+- Storytelling audiovisual
+- Produção de vídeos publicitários
+- Construção de narrativas visuais
+- Seleção e refinamento de cenas
+- Geração de narração com IA
+- Sincronização audiovisual
+- Edição e pós-produção
+
+---
+
+## 👨‍💻 ABOUT ME | SOBRE MIM
+
+Sou estudante de Sistemas de Informação e criador audiovisual com interesse em inteligência artificial generativa, tecnologia e comunicação visual.
+
+Desenvolvo projetos de produção publicitária utilizando ferramentas de IA para transformar ideias em vídeos, explorando desde a concepção criativa e elaboração de prompts até a geração de cenas, produção de narrações e edição final.
+
+Tenho interesse em aprofundar meus conhecimentos em produção audiovisual, experimentar novas tecnologias e contribuir com equipes criativas que utilizam inteligência artificial para desenvolver soluções inovadoras.
+
+**Meu objetivo profissional é atuar na criação e edição de conteúdos audiovisuais com IA, desenvolvendo minhas habilidades em direção criativa, storytelling e produção publicitária.**
+
+---
+
+## 🌎 PORTFOLIO | PORTFÓLIO
+
+Meu portfólio está disponível em português e inglês.
+
+🎬 **[VISUALIZAR PORTFÓLIO COMPLETO](https://jrmateusalmeida.github.io/ai-creative-portfolio/)**
+
+---
+
+## 📬 CONTACT | CONTATO
+
+**LinkedIn:** https://www.linkedin.com/in/jrmateusalmeida/
+
+**GitHub:** https://github.com/jrmateusalmeida
+
+**Portfólio:** https://jrmateusalmeida.github.io/ai-creative-portfolio/
+
+---
+
+*Mateus Almeida © 2026*
+
+**AI Video Creator · Generative AI · Creative Direction · Visual Storytelling**
