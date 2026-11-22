@@ -1,19 +1,69 @@
-## TOOLS & SKILLS | FERRAMENTAS E COMPETÊNCIAS
+# MATEUS ALMEIDA
+### AI Video Creator | Generative AI & Visual Storytelling
 
-**AI Video Generation**
-- Google Flow — geração de cenas e vídeos com inteligência artificial.
+**Transformando ideias em experiências visuais.**
 
-**AI Voice Generation**
-- ElevenLabs — geração de vozes e narrações com IA.
-- Fish Audio (Fish Studio) — síntese de voz e produção de narrações.
+*Turning ideas into visual experiences.*
 
-**Video Editing & Post-Production**
-- CapCut — montagem, edição e finalização audiovisual.
+Portfólio dedicado à produção audiovisual com inteligência artificial generativa, combinando criatividade, storytelling e tecnologia para transformar conceitos em campanhas publicitárias cinematográficas.
 
-**Creative Skills**
-- Prompt Engineering
+🎬 **[ACESSAR PORTFÓLIO AUDIOVISUAL](https://jrmateusalmeida.github.io/ai-creative-portfolio/)**
+
+---
+
+## 🎥 SELECTED WORKS | PROJETOS
+
+### 01 — PERFUMYSTICA | FEMME
+
+**Elegância, sofisticação e identidade.**
+
+Produção de comercial publicitário para a marca Perfumystica, explorando uma estética sofisticada, iluminação cinematográfica e elementos visuais associados ao universo da perfumaria feminina.
+
+O projeto envolveu concepção criativa, elaboração de prompts, geração de cenas com inteligência artificial, seleção de tomadas, construção narrativa e pós-produção.
+
+**Competências aplicadas:**
 - Direção criativa com IA
-- Storytelling audiovisual
-- Produção de comerciais publicitários
-- Seleção e refinamento de cenas
-- Integração de narração e imagem
+- Prompt Engineering
+- Geração audiovisual
+- Storytelling publicitário
+- Edição e finalização
+
+### 02 — PERFUMYSTICA | OCEAN
+
+**Liberdade, movimento e frescor.**
+
+Comercial audiovisual inspirado no universo marítimo, combinando paisagens costeiras, água, movimento e iluminação natural para transmitir sensações de liberdade e frescor.
+
+A produção envolveu desenvolvimento do conceito, criação e refinamento de prompts, geração de cenas, seleção visual, montagem e sincronização dos elementos audiovisuais.
+
+**Competências aplicadas:**
+- Criação de conceitos publicitários
+- Geração de vídeos com IA
+- Construção de narrativa visual
+- Direção de cenas
+- Edição audiovisual
+- Integração de áudio e imagem
+
+---
+
+## 🧠 CREATIVE PROCESS | PROCESSO CRIATIVO
+
+**01. Conceito e roteiro**
+
+Desenvolvimento da ideia central, definição da identidade visual e estruturação da narrativa publicitária.
+
+**02. Prompt Engineering**
+
+Elaboração, experimentação e refinamento de prompts para orientar a geração de cenas, movimentos, iluminação e composição visual.
+
+**03. Geração audiovisual com IA**
+
+Criação de vídeos utilizando Google Flow, explorando diferentes possibilidades visuais e narrativas.
+
+**04. Direção e seleção visual**
+
+Avaliação dos resultados gerados, identificação de inconsistências e seleção das cenas mais adequadas à proposta criativa.
+
+**05. Produção de voz com IA**
+
+Utilização de ElevenLabs e Fish Studio para criação de vozes e narrações, explorando
